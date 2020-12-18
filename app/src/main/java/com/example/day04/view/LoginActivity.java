@@ -28,6 +28,9 @@ public class LoginActivity extends BaseActivity<MainPresenterImpl> implements Ma
     }
 
     //我在这里第一次修改了
+
+
+    //我在分支上写了这句话
     @Override
     protected int getLayoutID() { return R.layout.activity_main; }
 
